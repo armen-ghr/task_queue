@@ -1,6 +1,6 @@
 # Task Queue with Priority and Resource Limits
 
-This Python implementation provides a task queue that allows you to manage tasks based on their priority and required resources. It uses the heapq data structure to efficiently organize and access tasks. The code has been designed to handle thousands of tasks with different priorities and resource requirements. To simulate a Max Heap using Python's heapq, priorities are stored as negative values.
+This Python implementation provides a task queue that allows you to manage tasks based on their priority and required resources. It uses the heap data structure to efficiently organize and access tasks. The code has been designed to handle thousands of tasks with different priorities and resource requirements. To simulate a Max Heap using Python's heapq, priorities are stored as negative values.
 
 ## Implementation Details
 
